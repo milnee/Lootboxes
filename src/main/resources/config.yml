@@ -1,0 +1,11 @@
+#
+
+permission-denied: '&cPermission denied.'
+
+# placeholders {arrow} to use >> (the other char)
+normal-reward-name: '&lNormal Reward'
+normal-reward-lore:
+  - '&6{arrow} CLICK TO OPEN!'
+final-reward-name: '&lFinal Reward'
+final-reward-lore:
+  - '&6{arrow} CLICK TO OPEN!'

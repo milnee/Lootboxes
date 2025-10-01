@@ -1,0 +1,27 @@
+name: Lootboxes
+version: '1.0'
+main: me.millen.lootboxes.Base
+commands:
+  box:
+    description: Manage lootboxes.
+permissions:
+  lootboxes.create:
+    description: Usage of /box create
+  lootboxes.remove:
+    description: Usage of /box remove
+  lootboxes.list:
+    description: Usage of /box list
+  lootboxes.list.details:
+    description: Ability to see the actual box name between brackets in the /box list
+  lootboxes.give:
+    description: Usage of /box give
+  lootboxes.giveall:
+    description: Usage of /box giveall
+  lootboxes.loot:
+    description: Usage of /box loot
+  lootboxes.editloot:
+    description: Ability to edit the loot table at /box loot
+  lootboxes.item:
+    description: Usage of /box item
+  lootboxes.reload:
+    description: Usage of /box reload
